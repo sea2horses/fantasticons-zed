@@ -4979,9 +4979,9 @@
         "_f_puppeteer": {
           "path": "./icons/puppeteer.svg"
         },
-	"_f_just": {
-	  "path": "./icons/just.svg"
-	}
+        "_f_just": {
+          "path": "./icons/just.svg"
+        }
       }
     }
   ]
