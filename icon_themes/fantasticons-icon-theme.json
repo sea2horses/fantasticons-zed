@@ -2806,6 +2806,7 @@
         "jsconfig.json": "_f_jsconfig",
         ".jscsrc": "_f_json",
         ".jshintrc": "_f_json",
+	"justfile": "_f_just",
         "composer.json": "_f_package_config",
         "composer.lock": "_f_package_lock",
         ".jsbeautifyrc": "_f_json",
@@ -4977,7 +4978,10 @@
         },
         "_f_puppeteer": {
           "path": "./icons/puppeteer.svg"
-        }
+        },
+	"_f_just": {
+	  "path": "./icons/just.svg"
+	}
       }
     }
   ]
